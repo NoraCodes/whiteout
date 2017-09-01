@@ -7,6 +7,6 @@ description = "Provides macros that erase the type of any value into an impl Tra
 
 repository = "https://github.com/LeoTindall/whiteout"
 
-keywords = ["impl trait", "types", "erasure", "macros"]
+keywords = ["impl_trait", "types", "erasure", "macros"]
 
 license = "MIT"
