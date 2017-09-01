@@ -1,5 +1,5 @@
 //! `whiteout` provides macros that erase the type of any value into 
-//! an impl Trait for a given trait. Obviously, this requires 
+//! an `impl Trait` for a given trait. Obviously, this requires 
 //! `#![feature(conservative_impl_trait)]` to be enabled on your
 //! crate root.
 //!
