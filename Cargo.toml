@@ -1,12 +1,9 @@
 [package]
 name = "whiteout"
-version = "0.1.0"
-authors = ["SilverWingedSeraph <lfstindall@gmail.com>"]
-
+version = "1.0.0"
+authors = ["Leonora Tindall <nora@nora.codes>"]
 description = "Provides macros that erase the type of any value into an impl Trait for a given trait."
-
-repository = "https://github.com/LeoTindall/whiteout"
-
+repository = "https://github.com/NoraCodes/whiteout"
 keywords = ["impl_trait", "types", "erasure", "macros"]
-
 license = "MIT"
+
